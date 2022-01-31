@@ -1,14 +1,15 @@
-/*
-Comments
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@300;600;800&display=swap');
 
-Selector {
-    property: value; 
-
+html {
+    background-color: rgb(214,239,250);
+    font-family: 'Assistant';
+    padding: 30px 100px;
+    font-size: 24px; 
+    
 }
 
-*/
-
-
-html { 
-    font-family: 'Zen Antique Soft', serif; 
+h1{
+    font-weight: 100;
+    line-height: 1.5em; 
 }
+
